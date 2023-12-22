@@ -1,0 +1,5 @@
+*.zip
+configs/config.local
+ksqlDB/
+.idea
+__pycache__
