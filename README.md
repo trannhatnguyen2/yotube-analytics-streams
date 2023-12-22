@@ -7,7 +7,7 @@ An end-to-end data engineering pipeline that fetches real-time YouTube analytics
 ## System Architecture
 
 <p align="center">
-<img src=".asset/img/system_architecture.png" width=80% height=80%>
+<img src="./asset/img/system_architecture.png" width=80% height=80%>
 
 <p align="center">
     System Architecture
